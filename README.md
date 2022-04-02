@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/baxt1yor)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baxtiyor-eshametov-99659119a)](https://www.linkedin.com/in/baxtiyor-eshametov-99659119a)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0898baxti@gmail.com)](mailto:0898baxti@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realvirus)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/baxt1y0r)
 [![VK](https://img.shields.io/badge/-VK-2CA5E0?style=flat-square&logo=VK&logoColor=white)](https://vk.com/realvirus)
 [![Instagram](https://img.shields.io/badge/-Instagram-f09433?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baxt1yor_)
 [![Facebook](https://img.shields.io/badge/-Facebook-2CA5E0?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/baxtiyor.eshametov)
