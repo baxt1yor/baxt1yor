@@ -14,7 +14,7 @@
 [![VK](https://img.shields.io/badge/-VK-2CA5E0?style=flat-square&logo=VK&logoColor=white)](https://vk.com/realvirus)
 [![Instagram](https://img.shields.io/badge/-Instagram-f09433?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baxt1yor_)
 [![Facebook](https://img.shields.io/badge/-Facebook-2CA5E0?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/baxtiyor.eshametov)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-24cc63?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/975130798)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-24cc63?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/999690898)
 
 ---
 **Languages and Tools:**
