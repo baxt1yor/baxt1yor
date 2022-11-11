@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=baxt1yor)
 
 **About Me:**
-- I’m currently learning __LARAVEL__, __VUE__, __DOCKER__, __CI&CD__, .
+- I’m currently learning __NODE_JS__, __REACT__, __DOCKER__, __CI&CD__, .
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a backend developer before becoming a full-stack developer.
