@@ -20,7 +20,7 @@
 **Languages and Tools:**
 <p>
   <code><img width="15%"  src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="15%"  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+  <code><img width="15%"  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
