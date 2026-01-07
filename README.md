@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/baxt1y0r)
 [![VK](https://img.shields.io/badge/-VK-2CA5E0?style=flat-square&logo=VK&logoColor=white)](https://vk.com/baxt1y0r)
 [![Instagram](https://img.shields.io/badge/-Instagram-f09433?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baxt1yor_)
-[![Facebook](https://img.shields.io/badge/-Facebook-2CA5E0?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/baxtiyor.eshametov)
+[![Facebook](https://img.shields.io/badge/-Facebook-2CA5E0?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/baxt1y0r)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-24cc63?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/999690898)
 
 ---
@@ -35,5 +35,5 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="12%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <!-- <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 </p>
