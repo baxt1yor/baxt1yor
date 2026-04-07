@@ -19,8 +19,9 @@
 ---
 **Languages and Tools:**
 <p>
-  
   <code><img width="15%" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png"></code>
+  <code><img width="15%"  src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%"  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <br />
