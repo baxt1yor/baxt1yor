@@ -20,11 +20,11 @@
 **Languages and Tools:**
 <p>
   
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></code>
+  <code><img width="15%" src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png"></code>
   <code><img width="15%"  src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://iconlogovector.com/uploads/images/2024/04/lg-661dcf10b6254-C-Sharp.webp"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
